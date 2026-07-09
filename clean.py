@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def clean_stock_df(df: pd.DataFrame) -> pd.DataFrame:
     """Standardize columns, drop bad rows, cast types for stock price data."""
     df = df.rename(columns={
