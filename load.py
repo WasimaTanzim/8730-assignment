@@ -69,7 +69,6 @@ def load_macro_indicators(cursor, series_code: str, series_label: str, df: pd.Da
         rows,
     )
 
-
 def load_fundamentals(cursor, company_id: int, fundamentals: dict):
     """
     Insert a fundamentals snapshot keyed by (company_id, snapshot_date).
