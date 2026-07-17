@@ -84,7 +84,7 @@ Edit `mongo_config.py` if MongoDB isn't running on the default local port.
 
 ## How to Run
 
-Run the three pipeline stages in this order:
+Run the four pipeline stages in this order:
 
 ### 1. Structured data pipeline (MySQL)
 ```bash
@@ -127,8 +127,8 @@ included in the submission per course requirements.
 
 ## Team
 
-Group 9 — [list team member names here]
+Group 9 — Anushka Pradeep, Xinyun Gu, Wasima Tanzim, Yifan Chen
 
 ## Instructor
 
-Professor Ali Elsharif ([@elsharif-UWindsor](https://github.com/elsharif-UWindsor))
+Professor Ali El-Sharif ([@elsharif-UWindsor](https://github.com/elsharif-UWindsor))
